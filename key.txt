@@ -1,2 +1,2 @@
-admin:test
-test:123
+"admin":"test"
+"test":"123"
